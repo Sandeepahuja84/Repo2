@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 305D-DB63
-
- Directory of C:\Users\Sandeep Ahuja\Desktop\MyProject
-
-18-02-2023  16:03    <DIR>          .
-18-02-2023  15:57    <DIR>          ..
-18-02-2023  16:03                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  74,312,278,016 bytes free
+Change 1
